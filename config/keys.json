@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "closet-app-storage",
+    "private_key_id": "86e91d9a0d18d69b65e6f2112dc79df1604a0c41",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+Z/K+JdXugn/B\nsHWBos/NI3XlZJ07qQt3ej/p3mpuq2QIuDmgVnLumqIP7TgEXuF+IzkionqyygaS\nbVz/HFEyZgI9ugKD2l4bKhRUQvR2ngTG9rICvqasz8u1SBCfmT6OMFaGBeWBACXi\nTZXT+/xydGiSAF98FKi1X8SgdM6M8HSpoRYg+s0kgfyp8jSyaBSdu/GWtu/0A61L\nc5MMMypiFOsVqpuB85L7n0DaOIalNJrk5/Cy+WcgI5WxS/9DIZXay35e7Hx9RipJ\n7qX3HmWta8e1dC3/JzPCkvc98919jYPz/k3flKzVyh7XCFwRATHmcqQBI1QIphBl\nhS+2byHDAgMBAAECggEAOy2xm3nE+QFkVb3Td7wzm82GqgpQeCd9IeBEFxsCt2zb\nhX5EotnblN9IuWyAOZOHwB2Qd3xKaGE0E7Sb78pMTj64OZkjiPmIwCae9OVud6N7\nVp98CjBZO2LGLIy+ZexKLgVGDxesEiEKpUB57c3m02fszFwDUVxWZzDhuwEy5UiY\ngbSMthdpsiLMZaxG/yW1Rkuq3gj4pQeFF3QOIL6C4chHuofsv0DkM1OpSMCJQrG5\nsRubb7GqfWz02Jmeg+tqtDim7mRv7j3wRtbphAxwMx4VyQ+mZSakItx4W3y3FSI7\noCQVhSj0EqZcy1Dphb2YWiZ4W1YNSUN95mrby0I2sQKBgQD7gnaUXvE3ZNAJ/kED\n5cA5jN6JNkoOrOJLkgaRdw1q9oc4J2qHEmYDmkmgq2+7S7jvSAQ8be4+jELS47ZX\njhX0WYBe7VXRu7tcH5yc6MilSDkb4HE5fuUOrZ7Me3k5BbhnwM6Y6nZlA5oznVBw\nshslfCC2L+5P+7wvV13Nar0GOQKBgQDBzjVMMnhjXm/SA0VZBk8x5iJN2V7Oxw8o\nDLAP9orWepurE/WCet5q6tgQAjhWEtNHIgHZJ0GAMFhuYELhSZ0v3mGK3OP4Lf6A\nO7MlDunmwj+q+cFYAVuN0XfKSY9vftD9p5vFlQEBqIF+MEIiDxbv86Q7MGFcY0Wc\nnEbz0glH2wKBgFmp1SRoBI6+/fvSDNOa4MCjm+JG3HgG4lYWpQjO7JWpdeNrCetF\nf+Dg7Ea/V4HqKPAFOJ1ig4EA+AG+9I6aNPF7xuwQqHuw9caN7oNx6bYi3Vk21qas\nunRVKTu0+S5+/5Ldhcm2LKcudZbZCohitpLSgcbxp4AUOq6V8vb8io7hAoGANMMg\n+3eaEuN46eH+FTiEgv82Q590EjNbSvn5TL9AGRgUHUU3x6gPuWfqHqGcGMLTRkBZ\n5HatfGqtCI+oZZEW/Bs8zwNIBR7wdJTMNsCSqUIk9zU7j+v+suNeC3JvXFlYKFZj\nMC1assrfRi15M7CL/BOGmJ6ZQv+7yeE559M8t5UCgYEAkbAuobIpSe+Yb7+o7QFa\nAqqB5F+cq6Bq1Li1fk/W7De8PztTLQfCHaHEBZ+QmhdSCbs8xW5NJ7c0fMuFuxLt\nggXPzZPKhr01nBSbBuRnXhxV8mKmAf9Aqnb2HdGWcT0Kqi3m3bjzaEz+HxKpl3xw\n5E0GSat2EMGg2lPRaD3NDOM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "service-account@closet-app-storage.iam.gserviceaccount.com",
+    "client_id": "107379067933031770657",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40closet-app-storage.iam.gserviceaccount.com"
+  }
+  
